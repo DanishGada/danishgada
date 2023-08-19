@@ -1,11 +1,11 @@
-<h2 align="center">Hello there 👋!<br>Dive into the coding cosmos and AI realms alongside me, Danish Gada. Together, we'll sculpt an unparalleled tech odyssey! 🌌👩‍💻🚀 👨‍💻</h2>
+<h3 align="center">Hello there 👋!<br>Dive into the coding cosmos and AI realms alongside me, Danish Gada. Together, we'll sculpt an unparalleled tech odyssey! 🌌👩‍💻🚀 👨‍💻🚀</h3>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danishgada&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=danishgada&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=11&date_format=M j[, Y]" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danishgada&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danishgada&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true" height="100" alt="languages graph"  />
 </div>
 
 ###
@@ -84,8 +84,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/danishgada/danishgada/output/snake.svg" alt="Snake animation" />
 
