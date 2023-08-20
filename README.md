@@ -1,4 +1,4 @@
-<h3 align="left"># 👋 Hello, I'm Danish Gada!
+<h2 align="left"># 👋 Hello, I'm Danish Gada!</h2>
 
 Passionate about Software Development and AI, I thrive on crafting elegant solutions to complex challenges using **Java**, **Python**, and exploring the realms of **Machine Learning**, **Deep Learning**, and **Natural Language Processing**. 
 
@@ -16,7 +16,7 @@ I'm currently immersed in the world of **Chatbots** using **Large Language Model
 
 ## 📬 Let's Connect
 
-Feel free to drop me a line at danish.atul.gada@gmail.com for inquiries, collaboration opportunities, or simply for a friendly chat. Looking forward to engaging with fellow developers and AI enthusiasts. Together, we'll shape the future! 🌟</h3>
+Feel free to drop me a line at danish.atul.gada@gmail.com for inquiries, collaboration opportunities, or simply for a friendly chat. Looking forward to engaging with fellow developers and AI enthusiasts. Together, we'll shape the future! 🌟
 
 ###
 
