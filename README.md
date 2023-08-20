@@ -8,7 +8,7 @@ Dive into my repositories to uncover projects spanning from **Computer Vision** 
 
 ## 🔗 Explore More
 
-Check out my portfolio at [Your Portfolio Website] for a deeper dive into my work and experiences. Stay connected with me via [Social Media Platforms] to keep up with my latest ventures.
+Check out my portfolio at [Your Portfolio Website] for a deeper dive into my work and experiences. Stay connected with me via [[LinkedIn]](https://www.linkedin.com/in/danishgada/) to keep up with my latest ventures.
 
 ## 🌱 Current Exploration
 
