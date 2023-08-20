@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there! I'm DanishGada, a passionate Software Developer and AI enthusiast. I love crafting elegant solutions to complex challenges using Java,Python,ML/DL/NLP and sharing my knowledge through open-source projects.
+<h3 align="left">👋 Hi there! I'm DanishGada, a passionate Software Developer and AI enthusiast. I love crafting elegant solutions to complex challenges using Java,Python,ML/DL/NLP and sharing my knowledge through open-source projects.
 
 🚀 Explore my repositories to discover projects ranging from ComputerVision and AI to Android & Software Dev. I'm particularly focused on Leveraging AI to Automate Complex Human Tasks, and I'm always excited to collaborate with like-minded developers.
 
