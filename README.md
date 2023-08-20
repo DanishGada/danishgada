@@ -1,4 +1,4 @@
-<h2 align="left"># 👋 Hello, I'm Danish Gada!</h2>
+<h2 align="left"> 👋 Hello, I'm Danish Gada!</h2>
 
 Passionate about Software Development and AI, I thrive on crafting elegant solutions to complex challenges using **Java**, **Python**, and exploring the realms of **Machine Learning**, **Deep Learning**, and **Natural Language Processing**. 
 
