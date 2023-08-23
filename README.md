@@ -8,7 +8,7 @@ Dive into my repositories to uncover projects spanning from **Computer Vision** 
 
 ## 🔗 Explore More
 
-Check out my portfolio at [Your Portfolio Website] for a deeper dive into my work and experiences. Stay connected with me via <a href="https://www.linkedin.com/in/danishgada/" target="_blank">
+Check out my portfolio for a deeper dive into my work and experiences. Stay connected with me via <a href="https://www.linkedin.com/in/danishgada/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a> to keep up with my latest ventures.
 
