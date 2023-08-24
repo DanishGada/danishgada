@@ -18,7 +18,7 @@ I'm currently immersed in the world of **Chatbots** using **Large Language Model
 
 ## 📬 Let's Connect
 
-Feel free to drop me a line at danish.atul.gada@gmail.com for inquiries, collaboration opportunities, or simply for a friendly chat. Looking forward to engaging with fellow developers and AI enthusiasts. Together, we'll shape the future! 🌟
+Feel free to drop me a line at danish.atul.gada@gmail.com  for inquiries, collaboration opportunities, or simply for a friendly chat. Looking forward to engaging with fellow developers and AI enthusiasts. Together, we'll shape the future! 🌟
 
 ###
 
